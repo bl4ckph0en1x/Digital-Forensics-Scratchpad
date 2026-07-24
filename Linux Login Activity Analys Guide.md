@@ -1,5 +1,9 @@
 # Linux Login Activity Analysis (wtmp, btmp)
 
+This guide explains how to analyze **wtmp** and **btmp** login records on GNU/Linux system
+
+---
+
 ### Overview
 
 Linux systems maintain several binary accounting files that record user login activity.
