@@ -1,7 +1,7 @@
 # Digital Forensics Scratchpad
 My personal notes and guides for digital forensics and investigative techniques.
 
-## Linux Authentication Forensics
+## User Authentication Forensics
 [Linux Login Activity Analysis (wtmp, btmp)
 ](https://github.com/bl4ckph0en1x/Digital-Forensics-Scratchpad/blob/main/Linux%20Login%20Activity%20Analys%20Guide.md)
 
